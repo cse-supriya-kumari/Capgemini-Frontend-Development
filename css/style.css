@@ -1,0 +1,217 @@
+/* h1{
+    color: red;
+} */
+
+/* selectors */
+
+/* simple selector */
+
+/* id,class,tagname,grouping selector,universal selector */
+
+
+/* universal selector */
+
+/* *{
+    background-color: gray;
+    color: chartreuse;
+} */
+
+/* #head1,.head2{
+    background-color: rebeccapurple;
+    color: beige;
+} */
+
+
+/* #head1{
+    background-color: rebeccapurple;
+    color: beige;
+}
+.head{
+    background-color: red;
+    color: wheat;
+} */
+
+/* h1{
+    background-color: blue;
+    color: azure
+} */
+
+
+/* h1,p,h3{
+    background-color: lavender;
+    color: blueviolet;
+
+} */
+
+/* combinator selector */
+    /* it will target direct as well as indirect childeren */
+
+/* div p{
+    background-color: forestgreen;
+    color: fuchsia;
+} */
+
+
+/* chile selector  */
+/* it will target to only direct children */
+
+/* div>h2{
+    background-color: brown;
+    color: bisque;
+} */
+
+
+/* adjsent selector  */
+
+/* p+h3{
+    background-color: rebeccapurple;
+    color: aqua;
+} */
+
+/* generat sibling selector  */
+/* it will be target all occerence who are same level(sibling) */
+
+/* h2 ~p{
+    background-color: firebrick;
+    color: bisque;
+} */
+
+/* pseudo class selector  */
+
+
+/* a:link{
+    color: brown;
+}
+a:visited{
+    color: green;
+}
+
+a:active{
+    color: aqua;
+} */
+
+/* input:focus{
+    background-color: grey;
+    color: chartreuse;
+} */
+
+/* input:checked{
+    accent-color: green;
+} */
+
+/* input:disabled{
+    background-color: rgb(236, 185, 185)
+} */
+
+
+/* pseudo element selector  */
+
+/* h1::first-letter{
+    font-size: 40px;
+    color: orangered;
+}
+
+p::first-line{
+    color: burlywood;
+} */
+/* 
+h1::before{
+    content: '🤩';
+}
+h1::after{
+    content: '😍';
+}
+P::selection{
+    background-color: aquamarine;
+    color: deeppink;
+}
+
+li::marker{
+    content: '👻';
+}
+input::placeholder{
+    color: red;
+} */
+
+
+
+/* units */
+/* div{
+     */
+    /* height: 800px;
+    width:180%; */
+
+/* 
+    height: 100vh;
+    width: 100bw;
+    background-color: brown;
+    font-size: 40ox;
+}
+
+main{
+    height: 220px;
+    width: "200px";
+    background-color: yellow ;
+    font-size: 2em;
+} */
+
+  /* 1111 */
+
+/* 
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    height: 100vh;
+    width: 100vw;
+    background-color: lightblue;
+}
+button{
+    background-color: lightblue;
+    color: darkblue;
+    margin: 10px;
+    border: 5px solid red ;
+    padding: 20px;
+}
+article{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    margin: auto;
+} */
+
+
+/* ------colgroup------ */
+/* rgb, rgba,hsl.hsla,hashvalue */
+
+/* h1{
+    background-color: rgba(226, 12, 12, 0.851);
+    
+} */
+
+/* h1{
+    background-color: rgb(red, green, blue);
+} */
+
+/* h1{
+    background-color: hsl(hue, saturation, lightness);
+
+} */
+
+/* h1{
+    background-color: hsla(hue, saturation, lightness, alpha);
+
+} */
+/* 
+h1{
+    background-color: #ff0000;
+} */
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: gainsboro;
+    border-radius: 50%;
+}

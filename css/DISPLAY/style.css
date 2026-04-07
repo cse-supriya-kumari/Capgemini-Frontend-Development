@@ -1,0 +1,28 @@
+nav a{
+    padding: 20px;
+    height: 70px;
+    width: 100px;
+    background-color: chartreuse;
+    color: aqua;
+    display:block;
+    text-align: center;
+}
+
+h1{
+  padding: 10px;
+    background-color: cyan;
+    color: burlywood;
+    display: inline-block;
+  
+}
+
+footer > a{
+    display: inline-block;
+    padding: 20px;
+    background-color: rebeccapurple;
+}
+h1{
+    display: none;
+    visibility: hidden;
+
+}

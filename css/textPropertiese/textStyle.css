@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+nav a{
+
+    text-decoration: none;
+    /* text-transform: uppercase;        */
+    /* text-transform: capitalize; */
+
+    text-transform: lowercase;
+    font-style: italic;
+    /* font-style: normal; */
+}
+h1{
+    background-color: yellowgreen;
+    color: aquamarine;
+    text-align: center;
+    padding: 20px;
+    letter-spacing: 20px;
+    text-shadow: 1px 10px 1px blueviolet;
+
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+
+}
+
+p{
+
+    /* line-height: 40px;
+    word-spacing: 20px; */
+
+
+    text-indent: 150px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: lighter;
+
+    
+}

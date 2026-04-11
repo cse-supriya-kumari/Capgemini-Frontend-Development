@@ -1,0 +1,45 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "vscode-webview://1app9ql8b0o4kk26nprl1mnep0h740cq3tvnul3ngm7nkovh8rf6",
+  "elements": [
+    {
+      "id": "rPguVAWHtL9oqefcf31m9",
+      "type": "text",
+      "x": 163.43756103515625,
+      "y": 32.55210876464844,
+      "width": 479.67962646484375,
+      "height": 120,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 633325965,
+      "version": 346,
+      "versionNonce": 1647893197,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775713380481,
+      "link": null,
+      "locked": false,
+      "text": "Function\n    it is reusable block of code.\n    to create function we need function keyword\n    if we want to execute funvtion we need to \ncall the function.",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Function\n    it is reusable block of code.\n    to create function we need function keyword\n    if we want to execute funvtion we need to \ncall the function."
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

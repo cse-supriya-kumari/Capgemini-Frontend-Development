@@ -1,0 +1,27 @@
+.container {
+      height: 400px;
+    width: 100%; 
+    background-color: grey;
+}
+
+
+/* mobile  */
+@media (max-width: 767px) {
+    .container {
+        background-color: red;
+    }
+}
+
+/* tablet */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .container {
+        background-color: yellow;
+    }
+}
+
+/* pc and loptop  */
+@media (min-width: 1024px) {
+    .container {
+        background-color: blue;
+    }
+}
